@@ -1802,8 +1802,7 @@ $(document).ready(function () {
         }
         $(".nav__items").fadeToggle(500);
     })
-
+*/
 
 
 });
-*/
