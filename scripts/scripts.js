@@ -1784,7 +1784,7 @@ $(document).ready(function () {
     });
 
 
-    $("nav").on('click', function () {
+  /*  $("nav").on('click', function () {
         $(".nav__items").css('position', 'absolute');
         $(".nav__items").css('z-index', '2');
         $(".nav__items").css('width', '153px');
@@ -1806,3 +1806,4 @@ $(document).ready(function () {
 
 
 });
+*/
