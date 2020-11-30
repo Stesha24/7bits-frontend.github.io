@@ -21,6 +21,11 @@
     <div class="progress-bar"></div>
 -->
     <div class="wrapper">
+        <script>
+            fetch('https://jsonplaceholder.typicode.com/todos/1')
+                .then(response => response.json())
+                .then(json => console.log(json))
+        </script>
         <header>
             <a href="index.html"><img src="./images/logo.png" alt=""></a>
             <nav>
